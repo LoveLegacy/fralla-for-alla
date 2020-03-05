@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fralla-for-alla/precache-manifest.199b7dc9eeff9a2983a6bee915e447cc.js"
+  "/fralla-for-alla/precache-manifest.9dc9c56f177a2141e39dffc21d4a7e09.js"
 );
 
 self.addEventListener('message', (event) => {
