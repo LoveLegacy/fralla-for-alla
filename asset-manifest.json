@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fralla-for-alla/static/css/main.d1b05096.chunk.css",
+    "main.js": "/fralla-for-alla/static/js/main.bf8c37a4.chunk.js",
+    "main.js.map": "/fralla-for-alla/static/js/main.bf8c37a4.chunk.js.map",
+    "runtime-main.js": "/fralla-for-alla/static/js/runtime-main.0faff5aa.js",
+    "runtime-main.js.map": "/fralla-for-alla/static/js/runtime-main.0faff5aa.js.map",
+    "static/js/2.e812af94.chunk.js": "/fralla-for-alla/static/js/2.e812af94.chunk.js",
+    "static/js/2.e812af94.chunk.js.map": "/fralla-for-alla/static/js/2.e812af94.chunk.js.map",
+    "index.html": "/fralla-for-alla/index.html",
+    "precache-manifest.199b7dc9eeff9a2983a6bee915e447cc.js": "/fralla-for-alla/precache-manifest.199b7dc9eeff9a2983a6bee915e447cc.js",
+    "service-worker.js": "/fralla-for-alla/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/fralla-for-alla/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.e812af94.chunk.js.LICENSE.txt": "/fralla-for-alla/static/js/2.e812af94.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/fralla-for-alla/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0faff5aa.js",
+    "static/js/2.e812af94.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.bf8c37a4.chunk.js"
+  ]
+}
