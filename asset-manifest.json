@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/fralla-for-alla/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/fralla-for-alla/static/js/main.2c8f2c0e.chunk.js",
-    "main.js.map": "/fralla-for-alla/static/js/main.2c8f2c0e.chunk.js.map",
+    "main.js": "/fralla-for-alla/static/js/main.81af01cf.chunk.js",
+    "main.js.map": "/fralla-for-alla/static/js/main.81af01cf.chunk.js.map",
     "runtime-main.js": "/fralla-for-alla/static/js/runtime-main.0faff5aa.js",
     "runtime-main.js.map": "/fralla-for-alla/static/js/runtime-main.0faff5aa.js.map",
-    "static/js/2.cc75f16c.chunk.js": "/fralla-for-alla/static/js/2.cc75f16c.chunk.js",
-    "static/js/2.cc75f16c.chunk.js.map": "/fralla-for-alla/static/js/2.cc75f16c.chunk.js.map",
+    "static/js/2.a84cb4b2.chunk.js": "/fralla-for-alla/static/js/2.a84cb4b2.chunk.js",
+    "static/js/2.a84cb4b2.chunk.js.map": "/fralla-for-alla/static/js/2.a84cb4b2.chunk.js.map",
     "index.html": "/fralla-for-alla/index.html",
-    "precache-manifest.9dc9c56f177a2141e39dffc21d4a7e09.js": "/fralla-for-alla/precache-manifest.9dc9c56f177a2141e39dffc21d4a7e09.js",
+    "precache-manifest.5ea737f86ec39130049acc3de55ae89d.js": "/fralla-for-alla/precache-manifest.5ea737f86ec39130049acc3de55ae89d.js",
     "service-worker.js": "/fralla-for-alla/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/fralla-for-alla/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.cc75f16c.chunk.js.LICENSE.txt": "/fralla-for-alla/static/js/2.cc75f16c.chunk.js.LICENSE.txt"
+    "static/js/2.a84cb4b2.chunk.js.LICENSE.txt": "/fralla-for-alla/static/js/2.a84cb4b2.chunk.js.LICENSE.txt",
+    "static/media/bread.svg": "/fralla-for-alla/static/media/bread.c430fb3b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0faff5aa.js",
-    "static/js/2.cc75f16c.chunk.js",
+    "static/js/2.a84cb4b2.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.2c8f2c0e.chunk.js"
+    "static/js/main.81af01cf.chunk.js"
   ]
 }
