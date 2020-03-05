@@ -20,7 +20,9 @@ const Header = () => {
 
   return (
     <Nav>
-      <Logo src={logo} />
+      <Link to="/">
+        <Logo src={logo} />
+      </Link>
       <Link to="/admin">Admin</Link>
     </Nav>
   );
